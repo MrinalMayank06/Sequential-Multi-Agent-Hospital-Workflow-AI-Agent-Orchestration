@@ -443,7 +443,7 @@ This project demonstrates practical concepts around:
 
 ---
 
-# 📌 Important Note
+# Important Note
 
 This repository intentionally focuses on **AI workflow architecture**, not on building an autonomous medical system.
 
